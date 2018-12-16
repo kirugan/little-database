@@ -1,0 +1,8 @@
+[package]
+name = "RustLearning"
+version = "0.1.0"
+authors = ["kirill <paltsev.kir@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+tokio = "0.1.10"
